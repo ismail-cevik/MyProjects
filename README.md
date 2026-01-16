@@ -96,11 +96,11 @@ The game will then begin 🎮
 ## 🧪 Sample Output
 
 ```
-Welcome to Rock-Paper-Scissors!
-(t=rock, k=paper, m=scissors) Enter your move --> t
-Computer's move: m
-You win!
-Score: Player 1 - Computer 0
+Taş-Kağıt-Makas oyununa hoş geldiniz!
+(t=taş, k=kağıt, m=makas) Hamlenizi giriniz --> t
+Bilgisayarın hamlesi: m
+Kazandınız!
+Skor: Oyuncu 1 - Bilgisayar 0
 ```
 
 ---
