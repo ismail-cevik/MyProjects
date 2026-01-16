@@ -125,6 +125,6 @@ GitHub: https://github.com/ismail-cevik
 
 ## 📜 License
 
-This project was developed for educational purposes. It is free to use, modify, and share.
+This project was developed for educational purposes. 
 
 The computer plays randomly. Humans play psychologically. Randomness usually wins. 😄
